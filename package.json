@@ -5,7 +5,8 @@
   "author": "niveyrojulian5@gmail.com <niveyrojulian5@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
