@@ -1,0 +1,10 @@
+{
+  "name": "backjason",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "niveyrojulian5@gmail.com <niveyrojulian5@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
